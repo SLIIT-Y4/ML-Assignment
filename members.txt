@@ -1,0 +1,6 @@
+	STUDENT NAME	      STUDENT NO.		EMAIL ADDRESS
+
+1	Risina Rasmith R.K.A.	IT20077488		it20077488@my.sliit.lk
+2	De Silva H.L.D.P.	      IT20012106		It20012106@my.sliit.lk
+3	Abeywickrama C.P.	      IT20385064		It20385064@my.sliit.lk
+4	Chamindu Hansana K.G.	IT20142896		it20142896@my.sliit.lk
